@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f80c1075-8228-402c-884e-a8a3bf3dc172" name="Default Changelist" comment="">
+      <change afterPath="E:/autoai_new/autoai-demol/src/main/java/com/navinfo/autoai/autoaidemol/Test.java" afterDir="false" />
+      <change afterPath="E:/autoai_new/autoai-demol/src/main/java/com/navinfo/autoai/autoaidemol/Test2.java" afterDir="false" />
+      <change afterPath="E:/autoai_new/autoai-demol/src/test/java/com/navinfo/autoai/autoaidemol/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/PendingJobPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/ITaskProcesser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/ITemVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/TaskResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/TaskResultType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yhh/frame/test/FileTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yhh/frame/test/MaTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yhh/frame/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yhh/frame/test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yhh/frame/vo/SleepTool.java" afterDir="false" />
+      <change afterPath="E:/zkxt/（14）redis/04-2019.01.06-第四节课/第4次_redis笔记(PPT-7,8,9)/redis-cluster/redis-cluster.iml" afterDir="false" />
+      <change afterPath="E:/zkxt/（14）redis/04-2019.01.06-第四节课/第4次_redis笔记(PPT-7,8,9)/redis-sentinel/redis-sentinel.iml" afterDir="false" />
+      <change beforePath="E:/.gitignore" beforeDir="false" />
+      <change beforePath="E:/README.md" beforeDir="false" />
+      <change beforePath="E:/WxPayAPI_JAVA/java_sdk_v3.0.9/wxpay-sdk.iml" beforeDir="false" />
+      <change beforePath="E:/autoai_new/autoai-boot/pom.xml" beforeDir="false" afterPath="E:/autoai_new/autoai-boot/pom.xml" afterDir="false" />
+      <change beforePath="E:/pom.xml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/.circleci/config.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/.editorconfig" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/.github/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/.gitignore" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/.mvn/jvm.config" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/.mvn/maven.config" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/.settings.xml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/LICENSE" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/LICENSE.txt" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/README.adoc" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/circle-v1.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/docs/pom.xml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/docs/src/main/asciidoc/README.adoc" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/docs/src/main/asciidoc/gateway-grafana-dashboard.json" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/docs/src/main/asciidoc/ghpages.sh" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/docs/src/main/asciidoc/images/gateway-grafana-dashboard.jpeg" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/docs/src/main/asciidoc/images/spring_cloud_gateway_diagram.png" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/docs/src/main/asciidoc/intro.adoc" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/docs/src/main/asciidoc/sagan-boot.adoc" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/docs/src/main/asciidoc/sagan-index.adoc" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/docs/src/main/asciidoc/spring-cloud-gateway.adoc" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/mvnw" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/mvnw.cmd" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/pom.xml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/pom.xml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/actuate/GatewayControllerEndpoint.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/config/GatewayAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/config/GatewayClassPathWarningAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/config/GatewayEnvironmentPostProcessor.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/config/GatewayLoadBalancerClientAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/config/GatewayMetricsAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/config/GatewayNoLoadBalancerClientAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/config/GatewayProperties.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/config/GatewayRedisAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/config/GlobalCorsProperties.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/config/HttpClientProperties.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/config/LoadBalancerProperties.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/config/PropertiesRouteDefinitionLocator.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/discovery/DiscoveryClientRouteDefinitionLocator.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/discovery/DiscoveryLocatorProperties.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/discovery/GatewayDiscoveryClientAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/event/FilterArgsEvent.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/event/PredicateArgsEvent.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/event/RefreshRoutesEvent.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/event/WeightDefinedEvent.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/AdaptCachedBodyGlobalFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/FilterDefinition.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/ForwardPathFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/ForwardRoutingFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/GatewayFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/GatewayFilterChain.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/GatewayMetricsFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/GlobalFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/LoadBalancerClientFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/NettyRoutingFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/NettyWriteResponseFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/OrderedGatewayFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/RouteToRequestUrlFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/WebClientHttpRoutingFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/WebClientWriteResponseFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/WebsocketRoutingFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/WeightCalculatorWebFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/AbstractChangeRequestUriGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/AbstractGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/AbstractNameValueGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/AddRequestHeaderGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/AddRequestParameterGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/AddResponseHeaderGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/DedupeResponseHeaderGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/FallbackHeadersGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/GatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/HystrixGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/PrefixPathGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/PreserveHostHeaderGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/RedirectToGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/RemoveRequestHeaderGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/RemoveResponseHeaderGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/RequestHeaderToRequestUriGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/RequestRateLimiterGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/RequestSizeGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/RetryGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/RewritePathGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/RewriteResponseHeaderGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/SaveSessionGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/SecureHeadersGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/SecureHeadersProperties.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/SetPathGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/SetRequestHeaderGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/SetResponseHeaderGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/SetStatusGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/StripPrefixGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/rewrite/CachedBodyOutputMessage.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/rewrite/ModifyRequestBodyGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/rewrite/ModifyResponseBodyGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/factory/rewrite/RewriteFunction.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/headers/ForwardedHeadersFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/headers/HttpHeadersFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/headers/RemoveHopByHopHeadersFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/headers/XForwardedHeadersFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/ratelimit/AbstractRateLimiter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/ratelimit/KeyResolver.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/ratelimit/PrincipalNameKeyResolver.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/ratelimit/RateLimiter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/filter/ratelimit/RedisRateLimiter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/AsyncPredicate.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/FilteringWebHandler.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/RoutePredicateHandlerMapping.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/AbstractRoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/AfterRoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/BeforeRoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/BetweenRoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/CloudFoundryRouteServiceRoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/CookieRoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/HeaderRoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/HostRoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/MethodRoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/PathRoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/PredicateDefinition.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/QueryRoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/ReadBodyPredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/RemoteAddrRoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/RoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/predicate/WeightRoutePredicateFactory.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/CachingRouteDefinitionLocator.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/CachingRouteLocator.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/CompositeRouteDefinitionLocator.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/CompositeRouteLocator.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/InMemoryRouteDefinitionRepository.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/Route.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/RouteDefinition.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/RouteDefinitionLocator.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/RouteDefinitionRepository.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/RouteDefinitionRouteLocator.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/RouteDefinitionWriter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/RouteLocator.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/RouteRefreshListener.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/builder/BooleanSpec.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/builder/GatewayFilterSpec.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/builder/PredicateSpec.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/builder/RouteLocatorBuilder.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/builder/UriSpec.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/AbstractConfigurable.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/AbstractStatefulConfigurable.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/BodyInserterContext.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/Configurable.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/ConfigurationUtils.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/HttpStatusHolder.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/NameUtils.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/NotFoundException.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/ServerWebExchangeUtils.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/ShortcutConfigurable.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/StatefulConfigurable.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/StringToZonedDateTimeConverter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/TimeoutException.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/WeightConfig.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/ipresolver/RemoteAddressResolver.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/support/ipresolver/XForwardedRemoteAddressResolver.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/kotlin/org/springframework/cloud/gateway/route/builder/RouteDsl.kt" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/resources/META-INF/additional-spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/resources/META-INF/scripts/request_rate_limiter.lua" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/main/resources/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/actuate/GatewayControllerEndpointTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/config/GatewayAutoConfigurationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/config/GatewayNoLoadBalancerClientAutoConfigurationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/cors/CorsTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/discovery/DiscoveryClientRouteDefinitionLocatorIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/discovery/DiscoveryClientRouteDefinitionLocatorTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/discovery/GatewayDiscoveryClientAutoConfigurationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/ForwardRoutingFilterTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/GatewayMetricsFilterTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/LoadBalancerClientFilterTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/NettyRoutingFilterIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/RouteToRequestUrlFilterTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/WebsocketRoutingFilterTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/WeightCalculatorWebFilterTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/AddRequestHeaderGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/AddRequestParameterGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/AddResponseParameterGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/DedupeResponseHeaderGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/DedupeResponseHeaderGatewayFilterFactoryUnitTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/HystrixGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/HystrixTestConfig.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/PrefixPathGatewayFilterFactoryTest.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/PreserveHostHeaderGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/RedirectToGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/RemoveRequestHeaderGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/RemoveResponseHeaderGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/RequestHeaderToRequestUriGatewayFilterFactoryIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/RequestHeaderToRequestUriGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/RequestRateLimiterGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/RequestSizeGatewayFilterFactoryTest.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/RetryGatewayFilterFactoryIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/RewritePathGatewayFilterFactoryIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/RewritePathGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/RewriteResponseHeaderGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/RewriteResponseHeaderGatewayFilterFactoryUnitTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/SaveSessionGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/SecureHeadersGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/SetPathGatewayFilterFactoryIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/SetPathGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/SetRequestHeaderGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/SetResponseHeaderGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/SetStatusGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/StripPrefixGatewayFilterFactoryIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/factory/StripPrefixGatewayFilterFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/headers/ForwardedHeadersFilterTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/headers/HttpHeadersFilterMixedTypeTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/headers/HttpHeadersFilterTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/headers/HttpStatusInResponseHeadersFilterTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/headers/NonStandardHeadersInResponseTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/headers/RemoveHopByHopHeadersFilterTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/headers/XForwardedHeadersFilterTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/ratelimit/PrincipalNameKeyResolverIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/ratelimit/RedisRateLimiterConfigTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/ratelimit/RedisRateLimiterDefaultFilterConfigTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/filter/ratelimit/RedisRateLimiterTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/RoutePredicateHandlerMappingIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/RoutePredicateHandlerMappingSameManagementPortIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/RoutePredicateHandlerMappingTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/AfterRoutePredicateFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/BeforeRoutePredicateFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/BetweenRoutePredicateFactoryIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/BetweenRoutePredicateFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/CloudFoundryRouteServiceRoutePredicateFactoryIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/CloudFoundryRouteServiceRoutePredicateFactoryTest.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/CookieRoutePredicateFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/HeaderRoutePredicateFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/HostRoutePredicateFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/MethodRoutePredicateFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/PathRoutePredicateFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/QueryRoutePredicateFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/ReadBodyPredicateFactoryTest.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/RemoteAddrRoutePredicateFactoryTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/WeightRoutePredicateFactoryIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/handler/predicate/WeightRoutePredicateFactoryYaml404Tests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/route/CachingRouteDefinitionLocatorTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/route/CachingRouteLocatorTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/route/RouteDefinitionRouteLocatorTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/route/RouteRefreshListenerTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/route/RouteTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/route/builder/GatewayFilterSpecTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/route/builder/RouteBuilderTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/support/ShortcutConfigurableTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/support/ipresolver/XForwardedRemoteAddressResolverTest.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/AdhocTestSuite.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/BaseWebClientTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/FormIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/ForwardTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/GatewayIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/GatewayTestApplication.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/HttpBinCompatibleController.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/HttpStatusTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/PermitAllSecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/PostTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/TestUtils.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/WebfluxNotIncludedTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/sse/SseIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/ssl/MultiCertSSLTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/ssl/SSLHandshakeTimeoutDeprecatedTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/ssl/SSLHandshakeTimeoutTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/ssl/SingleCertSSLTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/support/AbstractHttpServer.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/support/HttpServer.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/support/ReactorHttpServer.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/support/redis/RedisRule.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/java/org/springframework/cloud/gateway/test/websocket/WebSocketIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/kotlin/org/springframework/cloud/gateway/route/builder/RouteDslTests.kt" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/1x1.png" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/application-logging.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/application-multi-cert-ssl.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/application-redis-rate-limiter-config.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/application-redis-rate-limiter-default-config.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/application-remote-address.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/application-removenonproxyheaders.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/application-request-header-web-filter.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/application-request-parameter-web-filter.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/application-save-session-web-filter.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/application-single-cert-ssl.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/application-weights-404.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/application.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/multi-cert.pem" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/scg-keystore.p12" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-core/src/test/resources/single-cert.pem" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-dependencies/pom.xml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-mvc/.jdk8" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-mvc/pom.xml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-mvc/src/main/java/org/springframework/cloud/gateway/mvc/ProxyExchange.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-mvc/src/main/java/org/springframework/cloud/gateway/mvc/config/ProxyExchangeArgumentResolver.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-mvc/src/main/java/org/springframework/cloud/gateway/mvc/config/ProxyProperties.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-mvc/src/main/java/org/springframework/cloud/gateway/mvc/config/ProxyResponseAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-mvc/src/main/resources/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-mvc/src/test/java/org/springframework/cloud/gateway/mvc/ProductionConfigurationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-mvc/src/test/resources/static/test.html" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/pom.xml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/autoconfigure/GatewayRSocketAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/autoconfigure/GatewayRSocketEnvironmentPostProcessor.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/autoconfigure/GatewayRSocketProperties.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/core/GatewayExchange.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/core/GatewayFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/core/GatewayFilterChain.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/core/GatewayPredicate.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/core/GatewayRSocket.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/core/GatewayServerRSocketFactoryCustomizer.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/core/PendingRequestRSocket.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/filter/AbstractFilterChain.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/filter/AbstractRSocketExchange.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/filter/FilterChain.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/filter/RSocketExchange.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/filter/RSocketFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/metrics/MicrometerResponderRSocket.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/metrics/MicrometerResponderRSocketInterceptor.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/registry/LoadBalancedRSocket.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/registry/Registry.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/registry/RegistryRoutes.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/registry/RegistrySocketAcceptorFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/route/Route.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/route/Routes.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/socketacceptor/GatewaySocketAcceptor.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/socketacceptor/SocketAcceptorExchange.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/socketacceptor/SocketAcceptorFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/socketacceptor/SocketAcceptorFilterChain.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/socketacceptor/SocketAcceptorPredicate.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/socketacceptor/SocketAcceptorPredicateFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/support/AsyncPredicate.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/java/org/springframework/cloud/gateway/rsocket/support/Metadata.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/main/resources/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/test/java/org/springframework/cloud/gateway/rsocket/autoconfigure/GatewayRSocketAutoConfigurationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/test/java/org/springframework/cloud/gateway/rsocket/core/GatewayRSocketIntegrationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/test/java/org/springframework/cloud/gateway/rsocket/core/GatewayRSocketTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/test/java/org/springframework/cloud/gateway/rsocket/socketacceptor/GatewaySocketAcceptorTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/test/java/org/springframework/cloud/gateway/rsocket/socketacceptor/SocketAcceptorPredicateFilterTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/test/java/org/springframework/cloud/gateway/rsocket/support/MetadataTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/test/java/org/springframework/cloud/gateway/rsocket/test/PingPongApp.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/test/java/org/springframework/cloud/gateway/rsocket/test/SocketAcceptorFilterOrderTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-rsocket/src/test/resources/application.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-sample/.jdk8" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-sample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-sample/src/main/java/org/springframework/cloud/gateway/sample/GatewaySampleApplication.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-sample/src/main/java/org/springframework/cloud/gateway/sample/ThrottleGatewayFilter.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-sample/src/main/kotlin/org/springframework/cloud/gateway/sample/AdditionalRoutes.kt" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-sample/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-sample/src/test/java/org/springframework/cloud/gateway/sample/GatewaySampleApplicationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-sample/src/test/java/org/springframework/cloud/gateway/sample/GatewaySampleApplicationWithoutMetricsTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-webflux/pom.xml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-webflux/src/main/java/org/springframework/cloud/gateway/webflux/ProxyExchange.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-webflux/src/main/java/org/springframework/cloud/gateway/webflux/config/ProxyExchangeArgumentResolver.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-webflux/src/main/java/org/springframework/cloud/gateway/webflux/config/ProxyProperties.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-webflux/src/main/java/org/springframework/cloud/gateway/webflux/config/ProxyResponseAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-webflux/src/main/resources/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-webflux/src/test/java/org/springframework/cloud/gateway/webflux/ProductionConfigurationTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-webflux/src/test/java/org/springframework/cloud/gateway/webflux/ReactiveTests.java" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-webflux/src/test/resources/application.properties" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-gateway-webflux/src/test/resources/static/test.html" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-starter-gateway/pom.xml" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/spring-cloud-starter-gateway/src/main/resources/META-INF/spring.provides" beforeDir="false" />
+      <change beforePath="E:/springcloud/spring-cloud-gateway-master/src/checkstyle/checkstyle-suppressions.xml" beforeDir="false" />
+      <change beforePath="E:/testdemol/src/main/java/com/example/demo/controller/HellowController.java" beforeDir="false" />
+      <change beforePath="E:/testdemol/src/main/java/com/example/demo/controller/IndexController.java" beforeDir="false" />
+      <change beforePath="E:/testdemol/src/main/resources/templates/hello.html" beforeDir="false" />
+      <change beforePath="E:/testdemol/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="E:/yhh_space/launcher-manage/assembly/assembly.iml" beforeDir="false" />
+      <change beforePath="E:/yhh_space/launcher-manage/launcher-common/launcher-common.iml" beforeDir="false" />
+      <change beforePath="E:/yhh_space/launcher-manage/launcher-domain/launcher-domain.iml" beforeDir="false" />
+      <change beforePath="E:/yhh_space/launcher-manage/launcher-manager.iml" beforeDir="false" />
+      <change beforePath="E:/yhh_space/launcher-manage/launcher-system/launcher-system.iml" beforeDir="false" />
+      <change beforePath="E:/zkxt/（3）Mybatis专题/03-2018.07.15-第三节课/mybatis-demo/mybatis-demo.iml" beforeDir="false" />
+      <change beforePath="E:/zkxt/（3）Mybatis专题/10-2018.07.31-第十节课/mybatis-quick-start/mybatis-quick-start.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/JobInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="50" column="15" lean-forward="true" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1636#1637#0" expanded="true" />
+                <element signature="e#1673#1674#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/TaskResultType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/ITemVo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/PendingJobPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1135#1136#0" expanded="true" />
+                <element signature="e#1178#1179#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/test/MaTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="1004" column="17" lean-forward="true" selection-start-line="1004" selection-start-column="17" selection-end-line="1004" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/test/FileTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="654">
+              <caret line="52" column="13" selection-start-line="50" selection-start-column="32" selection-end-line="52" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/test/Test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#1174#1175#0" expanded="true" />
+                <element signature="e#1234#1235#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/test/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1458">
+              <caret line="60" column="34" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yhh/frame/vo/SleepTool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/TaskResultType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/TaskResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/ITemVo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/JobInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yhh/frame/test/MaTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yhh/frame/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yhh/frame/test/FileTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/ITaskProcesser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/PendingJobPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yhh/frame/test/Test2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="concurrentFrame" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="concurrentFrame" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576575441385" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yhh.frame.test.Test" />
+      <module name="concurrentFrame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yhh.frame.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yhh.frame.test.Test2" />
+      <module name="concurrentFrame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yhh.frame.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f80c1075-8228-402c-884e-a8a3bf3dc172" name="Default Changelist" comment="" />
+      <created>1576477807945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576477807945</updated>
+      <workItem from="1576477809680" duration="10139000" />
+      <workItem from="1576488455864" duration="4842000" />
+      <workItem from="1576547058438" duration="7423000" />
+      <workItem from="1576574891595" duration="411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22815000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3177874" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48481563" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.21108742" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.12100213" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="JSF" order="6" />
+      <window_info anchor="right" id="Mybatis datasource" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="CDI" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/JobInfo.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/vo/SleepTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/TaskResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2392">
+          <caret line="314" column="11" selection-start-line="314" selection-start-column="11" selection-end-line="314" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/LinkedBlockingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11340">
+          <caret line="465" column="13" selection-start-line="465" selection-start-column="13" selection-end-line="465" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30672">
+          <caret line="1196" column="47" selection-start-line="1196" selection-start-column="47" selection-end-line="1196" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="212" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/ITaskProcesser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/TaskResultType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/vo/ITemVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/test/MaTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="60" column="34" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/test/FileTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="52" column="13" selection-start-line="50" selection-start-column="32" selection-end-line="52" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/JobInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="50" column="15" lean-forward="true" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+            <element signature="e#1673#1674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/PendingJobPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1135#1136#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="1004" column="17" lean-forward="true" selection-start-line="1004" selection-start-column="17" selection-end-line="1004" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/test/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+            <element signature="e#1234#1235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
