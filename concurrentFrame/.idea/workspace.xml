@@ -22,6 +22,7 @@
       <change beforePath="E:/WxPayAPI_JAVA/java_sdk_v3.0.9/wxpay-sdk.iml" beforeDir="false" />
       <change beforePath="E:/autoai_new/autoai-boot/pom.xml" beforeDir="false" afterPath="E:/autoai_new/autoai-boot/pom.xml" afterDir="false" />
       <change beforePath="E:/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="E:/springcloud/spring-cloud-gateway-master/.circleci/config.yml" beforeDir="false" />
       <change beforePath="E:/springcloud/spring-cloud-gateway-master/.editorconfig" beforeDir="false" />
       <change beforePath="E:/springcloud/spring-cloud-gateway-master/.github/CONTRIBUTING.md" beforeDir="false" />
@@ -406,7 +407,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/JobInfo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
-              <caret line="50" column="15" lean-forward="true" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+              <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1636#1637#0" expanded="true" />
@@ -476,7 +477,7 @@
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="584">
-              <caret line="1004" column="17" lean-forward="true" selection-start-line="1004" selection-start-column="17" selection-end-line="1004" selection-end-column="17" />
+              <caret line="1004" column="17" selection-start-line="1004" selection-start-column="17" selection-end-line="1004" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -496,8 +497,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/test/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="324">
+              <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#639#640#0" expanded="true" />
@@ -533,7 +534,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -598,50 +599,6 @@
               <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
               <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="concurrentFrame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrentFrame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -652,7 +609,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576575441385" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576575749034" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -717,18 +674,18 @@
       <workItem from="1576477809680" duration="10139000" />
       <workItem from="1576488455864" duration="4842000" />
       <workItem from="1576547058438" duration="7423000" />
-      <workItem from="1576574891595" duration="411000" />
+      <workItem from="1576574891595" duration="954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22815000" />
+    <option name="totallyTimeSpent" value="23358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -885,7 +842,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/framework/JobInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="50" column="15" lean-forward="true" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1636#1637#0" expanded="true" />
@@ -909,14 +866,14 @@
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="584">
-          <caret line="1004" column="17" lean-forward="true" selection-start-line="1004" selection-start-column="17" selection-end-line="1004" selection-end-column="17" />
+          <caret line="1004" column="17" selection-start-line="1004" selection-start-column="17" selection-end-line="1004" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/frame/test/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="324">
+          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#639#640#0" expanded="true" />
