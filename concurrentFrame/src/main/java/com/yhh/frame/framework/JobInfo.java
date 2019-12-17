@@ -88,7 +88,7 @@ public class JobInfo<R> {
         linkedBlockingDeque.addLast(taskResult);
         //如果任务执行次数==总任务数
         if(taskCount.get()==jobLength){
-            // do nothing
+            CheckJobProcesser.JobProcesserHandler.checkJobProcesser.getInstance().putJob(jobName,expTimer);
         }
     }
 

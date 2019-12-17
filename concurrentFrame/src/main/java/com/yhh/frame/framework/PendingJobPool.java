@@ -31,7 +31,11 @@ public class PendingJobPool{
     }
 
     public static PendingJobPool getInstance(){
-        return new PendingJobPool();
+        return ProcessHandler.pendingJobPool;
+    }
+
+    public static class ProcessHandler{
+        public static PendingJobPool pendingJobPool = new PendingJobPool();
     }
 
     /***
